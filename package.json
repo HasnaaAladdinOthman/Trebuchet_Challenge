@@ -1,0 +1,12 @@
+{
+  "name": "trebuchet",
+  "version": "1.0.0",
+  "description": "trebuchet problem",
+  "main": "Trebuchet.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnaa",
+  "license": "ISC"
+}
